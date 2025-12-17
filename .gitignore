@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Project Specific ---
+
+# Ignore large model weights (Create this manually!)
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Ignore dataset files (if you downloaded them locally)
+*.tsv
+*.csv
+/data
+
+# Ignore prediction results (optional, but cleaner)
+result.tsv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
