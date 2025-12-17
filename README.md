@@ -142,8 +142,6 @@ parameters = {
 ```
 
 ## References
-BERT Paper: Devlin et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-
-Dataset: Maas et al. (2011). Learning Word Vectors for Sentiment Analysis
-
-Library: Hugging Face Transformers Documentation
+* **BERT Paper**: [Devlin et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+* **Dataset**: [Maas et al. (2011). Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~amaas/data/sentiment/)
+* **Library**: [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers)
